@@ -1,0 +1,6 @@
+pymongo
+pyrogram
+pyrofork
+tgcrypto
+pytz
+apscheduler
